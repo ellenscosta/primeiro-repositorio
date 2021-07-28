@@ -38,7 +38,7 @@ Faz a relação de uma tabela com outra.
 
 **2FN -** Não podem existir informações que dependam apenas parcialmente da chave primária.
 
-**3FN - ** Todos os atributos devem depender apenas da chave primária, sendo independentes entre si.
+**3FN -** Todos os atributos devem depender apenas da chave primária, sendo independentes entre si.
 
 
 
